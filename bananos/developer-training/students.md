@@ -16,6 +16,7 @@
 | 11     |not_periquito # 8194   | completed lesson one   | [parakeet1.github.io]    |
 | 12     | IsBємsh👽C94´#0467     | completed lesson one   |[IsBemsho.github.io]      |
 | 13     | liam05 #5013          | completed lesson one   |[isata23677.github.io]    |
+| 14     | Sbananeitor#0143      | completed lesson one   | 
 
 [coranos.github.io]: https://coranos.github.io/
 [mayrapina007.github.io]: https://mayrapina007.github.io/
